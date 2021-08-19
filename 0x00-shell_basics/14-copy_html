@@ -1,2 +1,2 @@
 #!/biin/bash
-cp -u *.html ..
+cp -rpu *.html -t ..
